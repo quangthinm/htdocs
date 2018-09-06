@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:49:39	54086/54086	---M--	200	added ('OK')	text/html	date:Tue,%2004%20Jul%202017%2008:19:21%20GMT	http://azyrusthemes.com/circlevideo/single-video.html	C:/Users/lemo/Desktop/tai%20lieu/video-tempr/azyrusthemes.com/circlevideo/single-video.html	(from )
+21:49:40	26/26	---MC-	200	added ('OK')	text/plain	date:Tue,%2004%20Sep%202018%2014:49:38%20GMT	http://azyrusthemes.com/robots.txt		(from )
