@@ -1,0 +1,95 @@
+/*
+Theme Name: Kim So Hyun
+Theme URI: https://wordpress.org/themes/twentysixteen/
+Author: Thiện ahihi
+Author URI: Thiện ahihi
+Description: Kim So-hyun, is a South Korean actress. She began her career as a child actress in 2006 and initially gained public attention for playing a villainous young queen-to-be in Moon Embracing the Sun and a girl who falls into tragedy in Missing You. Born: June 4, 1999 (age 18 years), Australia. Height: 1.65 m
+Version: 1.0
+
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Normalize
+ * 2.0 - Genericons
+ * 3.0 - Typography
+ * 4.0 - Elements
+ * 5.0 - Forms
+ * 6.0 - Navigation
+ *   6.1 - Links
+ *   6.2 - Menus
+ * 7.0 - Accessibility
+ * 8.0 - Alignments
+ * 9.0 - Clearings
+ * 10.0 - Widgets
+ * 11.0 - Content
+ *    11.1 - Header
+ *    11.2 - Posts and pages
+ *    11.3 - Post Formats
+ *    11.4 - Comments
+ *    11.5 - Sidebar
+ *    11.6 - Footer
+ * 12.0 - Media
+ *    12.1 - Captions
+ *    12.2 - Galleries
+ * 13.0 - Multisite
+ * 14.0 - Media Queries
+ *    14.1 - >= 710px
+ *    14.2 - >= 783px
+ *    14.3 - >= 910px
+ *    14.4 - >= 985px
+ *    14.5 - >= 1200px
+ * 15.0 - Print
+ */
+
+
+/**
+ * 1.0 - Normalize
+ *
+ * Normalizing styles have been helped along thanks to the fine work of
+ * Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+ */
+#mainNav .navbar-nav>li.menu-item>a {
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+	padding:10px;
+}
+.post-categories{
+	list-style-type:none;
+	padding:0px;
+	font-size:16px;
+	line-height:2;
+}
+#pagination .pagination{
+	margin:auto;
+}
+#pagination .pagination .page-numbers{
+	padding: 2px 10px;
+    background-color: #f62d3e;
+    border-radius: 5px;
+    margin: 2px;
+	color:#fff;
+	text-decoration:none;
+}
+#pagination .pagination .page-numbers:hover{
+	background-color:#fff;
+	border:solid 1px #f62d3e;
+	color:#f62d3e;
+	padding:1px 10px;
+}
+#pagination .pagination .current{
+	background-color:#fff;
+	border:solid 1px #f62d3e;
+	color:#f62d3e;
+	padding:1px 9px;
+}
+.breadcrumb a:hover{
+	color:#f62d3e;
+}

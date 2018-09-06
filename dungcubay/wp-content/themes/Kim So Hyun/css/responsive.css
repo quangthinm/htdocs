@@ -1,0 +1,83 @@
+@media only screen and (max-width: 320px) {
+	.mainmenu{
+		
+	}
+}
+@media only screen and (max-device-width : 768px){
+	.mainmenu{
+		position:fixed !important;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.feature-products h2{
+		font-size:18px;
+		color:red;
+	}
+}
+@media only screen and (max-device-width : 768px){
+	.feature-products h2{
+		font-size:18px;
+		color:red;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.view-all .viewall a{
+		font-size:12px;
+		padding:5px
+	}
+	.view-all .viewall a:hover{
+		background-color:#fff !important;
+		color:#f62d3e;
+		border:solid 1px #f62d3e !important;
+		padding:5px;
+	}
+}
+@media only screen and (max-device-width : 768px){
+	.view-all .viewall a{
+		font-size:12px;
+		padding:5px
+	}
+	.view-all .viewall a:hover{
+		background-color:#fff !important;
+		color:#f62d3e;
+		border:solid 1px #f62d3e !important;
+		padding:5px;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.content_sec_banner_infor p:nth-child(1) {
+		font-size: 22px;
+		font-weight: 500;
+	}
+	.content_sec_banner_infor p:nth-child(2) {
+		font-size: 18px;
+		font-weight: 500;
+	}
+}
+@media only screen and (max-device-width : 768px){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
